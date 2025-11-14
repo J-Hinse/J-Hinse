@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**J-Hinse/J-Hinse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a student at Bit Academy, a school where you can learn all types of software development, you can learn Front-end, Back-end and even analizing data.
 
-Here are some ideas to get you started:
+I want to learn coding and i want to become the best at it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things ive learned so far:
+Using the Bash terminal
+C
+HTML
+CSS
+JavaScript
+Bootstrap
+Bulma
+Tailwind
+
+Im looking forward to getting better at the things ive already learned and to learning new things!
+
+Contact:
+j.hinse@student.talland.nl
