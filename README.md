@@ -5,7 +5,7 @@ Im a student at Bit Academy, a school where you can learn all types of software 
 I want to learn coding and i want to become the best at it.
 
 Things ive learned so far: 
-Using the Bash terminal
+Using the Bash terminal,
 C,
 HTML,
 CSS,
