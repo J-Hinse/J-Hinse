@@ -4,14 +4,14 @@ Im a student at Bit Academy, a school where you can learn all types of software 
 
 I want to learn coding and i want to become the best at it.
 
-Things ive learned so far:
+Things ive learned so far: 
 Using the Bash terminal
-C
-HTML
-CSS
-JavaScript
-Bootstrap
-Bulma
+C,
+HTML,
+CSS,
+JavaScript,
+Bootstrap,
+Bulma and
 Tailwind
 
 Im looking forward to getting better at the things ive already learned and to learning new things!
