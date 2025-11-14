@@ -14,7 +14,7 @@ Bootstrap,
 Bulma and
 Tailwind
 
-# Im looking forward to getting better at the things ive already learned and to learning new things!
+### Im looking forward to getting better at the things ive already learned and to learning new things!
 
 Contact:
 j.hinse@student.talland.nl
